@@ -1,0 +1,1024 @@
+<!DOCTYPE html>
+<html class="no-js no-svg" lang="en-US">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <link rel="shortcut icon" href="favicons/ppc.png" type="image/x-icon">
+    <link rel="icon" href="favicons/ppc.png" type="image/x-icon">
+    <!-- responsive meta -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- For IE -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>About Us – upcuganda</title>
+    <meta name="robots" content="max-image-preview:large">
+    <style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+    <link rel="dns-prefetch" href="//fonts.googleapis.com">
+    <link rel="alternate" type="text/calendar" title="nupuganda » iCal Feed" href="https://nupuganda.org/events/?ical=1">
+    <script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/nupuganda.org\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.7.2"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83d\udc26\u200d\u2b1b","\ud83d\udc26\u200b\u2b1b")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script> <link rel="stylesheet" id="cnss_font_awesome_css-css" href="css/css-all.min.css"
+
+      type="text/css" media="all">
+    <link rel="stylesheet" id="cnss_font_awesome_v4_shims-css" href="css/css-v4-shims.min.css"
+
+      type="text/css" media="all">
+    <link rel="stylesheet" id="cnss_css-css" href="css/css-cnss.css" type="text/css"
+
+      media="all">
+    <style id="wp-emoji-styles-inline-css" type="text/css">
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style> <style id="classic-theme-styles-inline-css" type="text/css">
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style> <style id="global-styles-inline-css" type="text/css">
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--strong-yellow: #f7bd00;--wp--preset--color--strong-white: #fff;--wp--preset--color--light-black: #242424;--wp--preset--color--very-light-gray: #797979;--wp--preset--color--very-dark-black: #000000;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 10px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 24px;--wp--preset--font-size--x-large: 42px;--wp--preset--font-size--normal: 15px;--wp--preset--font-size--huge: 36px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style> <link rel="stylesheet" id="contact-form-7-css" href="css/css-styles.css"
+
+      type="text/css" media="all">
+    <link rel="stylesheet" id="tribe-events-v2-single-skeleton-css" href="css/css-tribe-events-single-skeleton.min.css"
+
+      type="text/css" media="all">
+    <link rel="stylesheet" id="tribe-events-v2-single-skeleton-full-css" href="css/css-tribe-events-single-full.min.css"
+
+      type="text/css" media="all">
+    <link rel="stylesheet" id="tec-events-elementor-widgets-base-styles-css" href="css/widgets-widget-base.min.css"
+
+      type="text/css" media="all">
+    <link rel="stylesheet" id="bootstrap-css" href="css/css-bootstrap.css" type="text/css"
+
+      media="all">
+    <link rel="stylesheet" id="fontawesome-all-css" href="css/css-fontawesome-all.css"
+
+      type="text/css" media="all">
+    <link rel="stylesheet" id="flaticon-css" href="css/css-flaticon.css" type="text/css"
+
+      media="all">
+    <link rel="stylesheet" id="owl-theme-css" href="css/css-owl.css" type="text/css"
+
+      media="all">
+    <link rel="stylesheet" id="jquery-fancybox-css" href="css/css-jquery.fancybox.min.css"
+
+      type="text/css" media="all">
+    <link rel="stylesheet" id="animate-css" href="css/css-animate.css" type="text/css"
+
+      media="all">
+    <link rel="stylesheet" id="nice-select-css" href="css/css-nice-select.css" type="text/css"
+
+      media="all">
+    <link rel="stylesheet" id="whitehall-main-css" href="css/whitehall-style.css"
+
+      type="text/css" media="all">
+    <link rel="stylesheet" id="whitehall-rtl-css" href="css/css-rtl.css" type="text/css"
+
+      media="all">
+    <link rel="stylesheet" id="whitehall-main-style-css" href="css/css-style.css"
+
+      type="text/css" media="all">
+    <link rel="stylesheet" id="whitehall-color-css" href="css/css-color.css" type="text/css"
+
+      media="all">
+    <link rel="stylesheet" id="whitehall-custom-css" href="css/css-custom.css" type="text/css"
+
+      media="all">
+    <link rel="stylesheet" id="whitehall-responsive-css" href="css/css-responsive.css"
+
+      type="text/css" media="all">
+    <link rel="stylesheet" id="whitehall-theme-fonts-css" href="https://fonts.googleapis.com/css?family=DM+Sans%3Aital%2Cwght%400%2C400%2C0%2C500%2C0%2C700%2C1%2C400%2C1%2C500%2C1%2C700%7CMerriweather+Sans%3Aital%2Cwght%400%2C300%2C0%2C400%2C0%2C500%2C0%2C600%2C0%2C700%2C0%2C800%2C1%2C300%2C1%2C400%2C1%2C500%2C1%2C600%2C1%2C700%2C1%2C800&amp;subset=latin%2Clatin-ext"
+
+      type="text/css" media="all">
+    <link rel="stylesheet" id="elementor-frontend-css" href="css/css-frontend.min.css"
+
+      type="text/css" media="all">
+    <link rel="stylesheet" id="swiper-css" href="css/css-swiper.min.css" type="text/css"
+
+      media="all">
+    <link rel="stylesheet" id="e-swiper-css" href="css/conditionals-e-swiper.min.css"
+
+      type="text/css" media="all">
+    <link rel="stylesheet" id="elementor-post-6-css" href="css/css-post-6.css" type="text/css"
+
+      media="all">
+    <link rel="stylesheet" id="google-fonts-1-css" href="https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&amp;display=swap&amp;ver=6.7.2"
+
+      type="text/css" media="all">
+    <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin="">
+    <script type="text/javascript" id="jquery-core-js-extra">
+/* <![CDATA[ */
+var whitehall_data = {"ajaxurl":"https:\/\/nupuganda.org\/wp-admin\/admin-ajax.php","nonce":"d4d30264f1"};
+/* ]]> */
+</script> <script type="text/javascript" src="js/jquery-jquery.min.js" id="jquery-core-js"></script>
+    <script type="text/javascript" src="js/jquery-jquery-migrate.min.js" id="jquery-migrate-js"></script>
+    <script type="text/javascript" src="js/js-cnss.js" id="cnss_js-js"></script>
+    <link rel="https://api.w.org/" href="https://nupuganda.org/wp-json/">
+    <link rel="alternate" title="JSON" type="application/json" href="https://nupuganda.org/wp-json/wp/v2/pages/407">
+    <meta name="generator" content="WordPress 6.7.2">
+    <link rel="canonical" href="https://nupuganda.org/about-us/">
+    <link rel="shortlink" href="https://nupuganda.org/?p=407">
+    <link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://nupuganda.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fnupuganda.org%2Fabout-us%2F">
+    <link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://nupuganda.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fnupuganda.org%2Fabout-us%2F&amp;format=xml">
+    <style type="text/css">
+		ul.cnss-social-icon li.cn-fa-icon a:hover{opacity: 0.7!important;color:#ffffff!important;}
+		</style>
+    <meta name="tec-api-version" content="v1">
+    <meta name="tec-api-origin" content="https://nupuganda.org">
+    <link rel="alternate" href="https://nupuganda.org/wp-json/tribe/events/v1/">
+    <meta name="generator" content="Elementor 3.25.6; features: e_font_icon_svg, additional_custom_breakpoints, e_optimized_control_loading, e_element_cache; settings: css_print_method-external, google_font-enabled, font_display-swap">
+    <style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+    <style>
+				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload),
+				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload) * {
+					background-image: none !important;
+				}
+				@media screen and (max-height: 1024px) {
+					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload),
+					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload) * {
+						background-image: none !important;
+					}
+				}
+				@media screen and (max-height: 640px) {
+					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload),
+					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload) * {
+						background-image: none !important;
+					}
+				}
+			</style>
+  </head>
+  <body class="page-template page-template-tpl-default-elementor page-template-tpl-default-elementor-php page page-id-407 tribe-no-js menu-layer elementor-default elementor-kit-6 elementor-page elementor-page-407">
+    <div class="boxed_wrapper">
+      <!-- main header -->
+      <header class="main-header style-one">
+        <!-- header-top -->
+        <div class="header-top">
+          <div class="auto-container">
+            <div class="top-inner clearfix">
+              <div class="left-column pull-left clearfix"> </div>
+              <div class="right-column pull-right clearfix">
+                <ul class="info-list clearfix">
+                  <li><a href="tel:256770372056">(+256) 0770372056 </a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+        <!-- header-lower -->
+        <div class="header-lower">
+          <div class="auto-container">
+            <div class="outer-box clearfix">
+              <div class="logo-box pull-left">
+                <figure class="logo"><a href="ucpuganda.html" title="upcuganda"><img
+
+                      src="images/ppc.png" alt="logo" style=""></a></figure>
+              </div>
+              <div class="menu-area clearfix pull-right">
+                <!--Mobile Navigation Toggler-->
+                <div class="mobile-nav-toggler"> <i class="icon-bar"></i> <i class="icon-bar"></i>
+                  <i class="icon-bar"></i> </div>
+                <nav class="main-menu navbar-expand-md navbar-light">
+                  <div class="collapse navbar-collapse show clearfix" id="navbarSupportedContent">
+                    <ul class="navigation clearfix">
+                      <li id="menu-item-1335" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-1335"><a
+
+                          title="Home" href="nupuganda.html" class="hvr-underline-from-left1"
+
+                          data-scroll="" data-options="easing: easeOutQuart">Home</a></li>
+                      <li id="menu-item-1336" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-1336 active"><a
+
+                          title="About Us" href="about-us.html" class="hvr-underline-from-left1"
+
+                          data-scroll="" data-options="easing: easeOutQuart">About
+                          Us</a></li>
+                      <li id="menu-item-1337" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1337"><a
+
+                          title="Contact Us" href="contact.html" class="hvr-underline-from-left1"
+
+                          data-scroll="" data-options="easing: easeOutQuart">Contact
+                          Us</a></li>
+                      <li id="menu-item-1338" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1338"><br>
+                      </li>
+                    </ul>
+                  </div>
+                </nav>
+                <div class="menu-right-content clearfix">
+                  <ul class="other-option clearfix">
+                    <li class="search-btn"> <button type="button" class="search-toggler"><i
+
+                          class="far fa-search"></i></button> </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <!--sticky Header-->
+        <div class="sticky-header">
+          <div class="auto-container">
+            <div class="outer-box clearfix">
+              <div class="logo-box pull-left">
+                <figure class="logo"><a href="upcuganda.html" title="upcuganda"><img
+
+                      src="images/ppc.png" alt="logo" style=""></a></figure>
+              </div>
+              <div class="menu-area clearfix pull-right">
+                <nav class="main-menu clearfix">
+                  <!--Keep This Empty / Menu will come through Javascript--> </nav>
+                <div class="menu-right-content clearfix">
+                  <ul class="other-option clearfix">
+                    <li class="search-btn"> <button type="button" class="search-toggler"><i
+
+                          class="far fa-search"></i></button> </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </header>
+      <!-- main-header end -->
+      <!-- Mobile Menu  -->
+      <div class="mobile-menu">
+        <div class="menu-backdrop"></div>
+        <div class="close-btn"><i class="fas fa-times"></i></div>
+        <nav class="menu-box">
+          <div class="nav-logo"><a href="upcuganda.html" title="nupuganda"><img
+
+                src="images/ppc.png" alt="logo" style=""></a></div>
+          <div class="menu-outer"><!--Here Menu Will Come Automatically Via Javascript / Same Menu as in Header--></div>
+        </nav>
+      </div>
+      <!-- End Mobile Menu -->
+      <!-- search-popup -->
+      <div id="search-popup" class="search-popup">
+        <div class="close-search"><span>Close</span></div>
+        <div class="popup-inner">
+          <div class="overlay-layer"></div>
+          <div class="search-form">
+            <form action="https://nupuganda.org/" method="get">
+              <div class="form-group">
+                <fieldset> <input class="form-control" name="s" placeholder="Search Here"
+
+                    type="search"> <input value="Search Now!" class="theme-btn style-four"
+
+type="submit"> </fieldset>
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+      <!-- search-popup end -->
+      <!-- Page Title --><!-- End Page Title -->
+      <div data-elementor-type="wp-page" data-elementor-id="407" class="elementor elementor-407">
+        <section class="elementor-section elementor-top-section elementor-element elementor-element-09af874 elementor-section-full_width elementor-section-height-default elementor-section-height-default"
+
+          data-id="09af874" data-element_type="section">
+          <div class="elementor-container elementor-column-gap-default">
+            <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-4e5f895"
+
+              data-id="4e5f895" data-element_type="column">
+              <div class="elementor-widget-wrap elementor-element-populated">
+                <div class="elementor-element elementor-element-af7056c elementor-widget elementor-widget-whitehall_about_us_v3"
+
+                  data-id="af7056c" data-element_type="widget" data-widget_type="whitehall_about_us_v3.default">
+                  <div class="elementor-widget-container">
+                    <!-- about-style-three -->
+                    <section class="about-style-three">
+                      <div class="auto-container">
+                        <div class="row clearfix align-items-center">
+                          <div class="col-lg-4 col-md-12 col-sm-12 content-column">
+                            <div class="content_block_5">
+                              <div class="content-box">
+                                <div class="sec-title">
+                                  <h2>WHO WE ARE</h2>
+                                  <div class="title-shape"></div>
+                                </div>
+                                <div class="text">
+                                  <h4></h4>
+                                  <p>.<!--[if gte mso 9]><xml>
+ <o:OfficeDocumentSettings>  <o:AllowPNG/> </o:OfficeDocumentSettings></xml><![endif]--></p>
+                                  <p><!--[if gte mso 9]><xml>
+ <w:WordDocument>  <w:View>Normal</w:View>  <w:Zoom>0</w:Zoom>  <w:TrackMoves/>  <w:TrackFormatting/>  <w:PunctuationKerning/>  <w:ValidateAgainstSchemas/>  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>  <w:DoNotPromoteQF/>  <w:LidThemeOther>EN-US</w:LidThemeOther>  <w:LidThemeAsian>X-NONE</w:LidThemeAsian>  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>  <w:Compatibility>   <w:BreakWrappedTables/>   <w:SnapToGridInCell/>   <w:WrapTextWithPunct/>   <w:UseAsianBreakRules/>   <w:DontGrowAutofit/>   <w:SplitPgBreakAndParaMark/>   <w:EnableOpenTypeKerning/>   <w:DontFlipMirrorIndents/>   <w:OverrideTableStyleHps/>   <w:UseFELayout/>  </w:Compatibility>  <m:mathPr>   <m:mathFont m:val="Cambria Math"/>   <m:brkBin m:val="before"/>   <m:brkBinSub m:val="&#45;-"/>   <m:smallFrac m:val="off"/>   <m:dispDef/>   <m:lMargin m:val="0"/>   <m:rMargin m:val="0"/>   <m:defJc m:val="centerGroup"/>   <m:wrapIndent m:val="1440"/>   <m:intLim m:val="subSup"/>   <m:naryLim m:val="undOvr"/>  </m:mathPr></w:WordDocument></xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="true"  DefSemiHidden="true" DefQFormat="false" DefPriority="99"  LatentStyleCount="267">  <w:LsdException Locked="false" Priority="0" SemiHidden="false"   UnhideWhenUsed="false" QFormat="true" Name="Normal"/>  <w:LsdException Locked="false" Priority="9" SemiHidden="false"   UnhideWhenUsed="false" QFormat="true" Name="heading 1"/>  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 2"/>  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 3"/>  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 4"/>  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 5"/>  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 6"/>  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 7"/>  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 8"/>  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 9"/>  <w:LsdException Locked="false" Priority="39" Name="toc 1"/>  <w:LsdException Locked="false" Priority="39" Name="toc 2"/>  <w:LsdException Locked="false" Priority="39" Name="toc 3"/>  <w:LsdException Locked="false" Priority="39" Name="toc 4"/>  <w:LsdException Locked="false" Priority="39" Name="toc 5"/>  <w:LsdException Locked="false" Priority="39" Name="toc 6"/>  <w:LsdException Locked="false" Priority="39" Name="toc 7"/>  <w:LsdException Locked="false" Priority="39" Name="toc 8"/>  <w:LsdException Locked="false" Priority="39" Name="toc 9"/>  <w:LsdException Locked="false" Priority="35" QFormat="true" Name="caption"/>  <w:LsdException Locked="false" Priority="10" SemiHidden="false"   UnhideWhenUsed="false" QFormat="true" Name="Title"/>  <w:LsdException Locked="false" Priority="1" Name="Default Paragraph Font"/>  <w:LsdException Locked="false" Priority="11" SemiHidden="false"   UnhideWhenUsed="false" QFormat="true" Name="Subtitle"/>  <w:LsdException Locked="false" Priority="22" SemiHidden="false"   UnhideWhenUsed="false" QFormat="true" Name="Strong"/>  <w:LsdException Locked="false" Priority="20" SemiHidden="false"   UnhideWhenUsed="false" QFormat="true" Name="Emphasis"/>  <w:LsdException Locked="false" Priority="59" SemiHidden="false"   UnhideWhenUsed="false" Name="Table Grid"/>  <w:LsdException Locked="false" UnhideWhenUsed="false" Name="Placeholder Text"/>  <w:LsdException Locked="false" Priority="1" SemiHidden="false"   UnhideWhenUsed="false" QFormat="true" Name="No Spacing"/>  <w:LsdException Locked="false" Priority="60" SemiHidden="false"   UnhideWhenUsed="false" Name="Light Shading"/>  <w:LsdException Locked="false" Priority="61" SemiHidden="false"   UnhideWhenUsed="false" Name="Light List"/>  <w:LsdException Locked="false" Priority="62" SemiHidden="false"   UnhideWhenUsed="false" Name="Light Grid"/>  <w:LsdException Locked="false" Priority="63" SemiHidden="false"   UnhideWhenUsed="false" Name="Medium Shading 1"/>  <w:LsdException Locked="false" Priority="64" SemiHidden="false"   UnhideWhenUsed="false" Name="Medium Shading 2"/>  <w:LsdException Locked="false" Priority="65" SemiHidden="false"   UnhideWhenUsed="false" Name="Medium List 1"/>  <w:LsdException Locked="false" Priority="66" SemiHidden="false"   UnhideWhenUsed="false" Name="Medium List 2"/>  <w:LsdException Locked="false" Priority="67" SemiHidden="false"   UnhideWhenUsed="false" Name="Medium Grid 1"/>  <w:LsdException Locked="false" Priority="68" SemiHidden="false"   UnhideWhenUsed="false" Name="Medium Grid 2"/>  <w:LsdException Locked="false" Priority="69" SemiHidden="false"   UnhideWhenUsed="false" Name="Medium Grid 3"/>  <w:LsdException Locked="false" Priority="70" SemiHidden="false"   UnhideWhenUsed="false" Name="Dark List"/>  <w:LsdException Locked="false" Priority="71" SemiHidden="false"   UnhideWhenUsed="false" Name="Colorful Shading"/>  <w:LsdException Locked="false" Priority="72" SemiHidden="false"   UnhideWhenUsed="false" Name="Colorful List"/>  <w:LsdException Locked="false" Priority="73" SemiHidden="false"   UnhideWhenUsed="false" Name="Colorful Grid"/>  <w:LsdException Locked="false" Priority="60" SemiHidden="false"   UnhideWhenUsed="false" Name="Light Shading Accent 1"/>  <w:LsdException Locked="false" Priority="61" SemiHidden="false"   UnhideWhenUsed="false" Name="Light List Accent 1"/>  <w:LsdException Locked="false" Priority="62" SemiHidden="false"   UnhideWhenUsed="false" Name="Light Grid Accent 1"/>  <w:LsdException Locked="false" Priority="63" SemiHidden="false"   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 1"/>  <w:LsdException Locked="false" Priority="64" SemiHidden="false"   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 1"/>  <w:LsdException Locked="false" Priority="65" SemiHidden="false"   UnhideWhenUsed="false" Name="Medium List 1 Accent 1"/>  <w:LsdException Locked="false" UnhideWhenUsed="false" Name="Revision"/>  <w:LsdException Locked="false" Priority="34" SemiHidden="false"   UnhideWhenUsed="false" QFormat="true" Name="List Paragraph"/>  <w:LsdException Locked="false" Priority="29" SemiHidden="false"   UnhideWhenUsed="false" QFormat="true" Name="Quote"/>  <w:LsdException Locked="false" Priority="30" SemiHidden="false"   UnhideWhenUsed="false" QFormat="true" Name="Intense Quote"/>  <w:LsdException Locked="false" Priority="66" SemiHidden="false"   UnhideWhenUsed="false" Name="Medium List 2 Accent 1"/>  <w:LsdException Locked="false" Priority="67" SemiHidden="false"   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 1"/>  <w:LsdException Locked="false" Priority="68" SemiHidden="false"   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 1"/>  <w:LsdException Locked="false" Priority="69" SemiHidden="false"   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 1"/>  <w:LsdException Locked="false" Priority="70" SemiHidden="false"   UnhideWhenUsed="false" Name="Dark List Accent 1"/>  <w:LsdException Locked="false" Priority="71" SemiHidden="false"   UnhideWhenUsed="false" Name="Colorful Shading Accent 1"/>  <w:LsdException Locked="false" Priority="72" SemiHidden="false"   UnhideWhenUsed="false" Name="Colorful List Accent 1"/>  <w:LsdException Locked="false" Priority="73" SemiHidden="false"   UnhideWhenUsed="false" Name="Colorful Grid Accent 1"/>  <w:LsdException Locked="false" Priority="60" SemiHidden="false"   UnhideWhenUsed="false" Name="Light Shading Accent 2"/>  <w:LsdException Locked="false" Priority="61" SemiHidden="false"   UnhideWhenUsed="false" Name="Light List Accent 2"/>  <w:LsdException Locked="false" Priority="62" SemiHidden="false"   UnhideWhenUsed="false" Name="Light Grid Accent 2"/>  <w:LsdException Locked="false" Priority="63" SemiHidden="false"   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 2"/>  <w:LsdException Locked="false" Priority="64" SemiHidden="false"   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 2"/>  <w:LsdException Locked="false" Priority="65" SemiHidden="false"   UnhideWhenUsed="false" Name="Medium List 1 Accent 2"/>  <w:LsdException Locked="false" Priority="66" SemiHidden="false"   UnhideWhenUsed="false" Name="Medium List 2 Accent 2"/>  <w:LsdException Locked="false" Priority="67" SemiHidden="false"   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 2"/>  <w:LsdException Locked="false" Priority="68" SemiHidden="false"   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 2"/>  <w:LsdException Locked="false" Priority="69" SemiHidden="false"   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 2"/>  <w:LsdException Locked="false" Priority="70" SemiHidden="false"   UnhideWhenUsed="false" Name="Dark List Accent 2"/>  <w:LsdException Locked="false" Priority="71" SemiHidden="false"   UnhideWhenUsed="false" Name="Colorful Shading Accent 2"/>  <w:LsdException Locked="false" Priority="72" SemiHidden="false"   UnhideWhenUsed="false" Name="Colorful List Accent 2"/>  <w:LsdException Locked="false" Priority="73" SemiHidden="false"   UnhideWhenUsed="false" Name="Colorful Grid Accent 2"/>  <w:LsdException Locked="false" Priority="60" SemiHidden="false"   UnhideWhenUsed="false" Name="Light Shading Accent 3"/>  <w:LsdException Locked="false" Priority="61" SemiHidden="false"   UnhideWhenUsed="false" Name="Light List Accent 3"/>  <w:LsdException Locked="false" Priority="62" SemiHidden="false"   UnhideWhenUsed="false" Name="Light Grid Accent 3"/>  <w:LsdException Locked="false" Priority="63" SemiHidden="false"   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 3"/>  <w:LsdException Locked="false" Priority="64" SemiHidden="false"   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 3"/>  <w:LsdException Locked="false" Priority="65" SemiHidden="false"   UnhideWhenUsed="false" Name="Medium List 1 Accent 3"/>  <w:LsdException Locked="false" Priority="66" SemiHidden="false"   UnhideWhenUsed="false" Name="Medium List 2 Accent 3"/>  <w:LsdException Locked="false" Priority="67" SemiHidden="false"   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 3"/>  <w:LsdException Locked="false" Priority="68" SemiHidden="false"   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 3"/>  <w:LsdException Locked="false" Priority="69" SemiHidden="false"   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 3"/>  <w:LsdException Locked="false" Priority="70" SemiHidden="false"   UnhideWhenUsed="false" Name="Dark List Accent 3"/>  <w:LsdException Locked="false" Priority="71" SemiHidden="false"   UnhideWhenUsed="false" Name="Colorful Shading Accent 3"/>  <w:LsdException Locked="false" Priority="72" SemiHidden="false"   UnhideWhenUsed="false" Name="Colorful List Accent 3"/>  <w:LsdException Locked="false" Priority="73" SemiHidden="false"   UnhideWhenUsed="false" Name="Colorful Grid Accent 3"/>  <w:LsdException Locked="false" Priority="60" SemiHidden="false"   UnhideWhenUsed="false" Name="Light Shading Accent 4"/>  <w:LsdException Locked="false" Priority="61" SemiHidden="false"   UnhideWhenUsed="false" Name="Light List Accent 4"/>  <w:LsdException Locked="false" Priority="62" SemiHidden="false"   UnhideWhenUsed="false" Name="Light Grid Accent 4"/>  <w:LsdException Locked="false" Priority="63" SemiHidden="false"   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 4"/>  <w:LsdException Locked="false" Priority="64" SemiHidden="false"   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 4"/>  <w:LsdException Locked="false" Priority="65" SemiHidden="false"   UnhideWhenUsed="false" Name="Medium List 1 Accent 4"/>  <w:LsdException Locked="false" Priority="66" SemiHidden="false"   UnhideWhenUsed="false" Name="Medium List 2 Accent 4"/>  <w:LsdException Locked="false" Priority="67" SemiHidden="false"   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 4"/>  <w:LsdException Locked="false" Priority="68" SemiHidden="false"   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 4"/>  <w:LsdException Locked="false" Priority="69" SemiHidden="false"   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 4"/>  <w:LsdException Locked="false" Priority="70" SemiHidden="false"   UnhideWhenUsed="false" Name="Dark List Accent 4"/>  <w:LsdException Locked="false" Priority="71" SemiHidden="false"   UnhideWhenUsed="false" Name="Colorful Shading Accent 4"/>  <w:LsdException Locked="false" Priority="72" SemiHidden="false"   UnhideWhenUsed="false" Name="Colorful List Accent 4"/>  <w:LsdException Locked="false" Priority="73" SemiHidden="false"   UnhideWhenUsed="false" Name="Colorful Grid Accent 4"/>  <w:LsdException Locked="false" Priority="60" SemiHidden="false"   UnhideWhenUsed="false" Name="Light Shading Accent 5"/>  <w:LsdException Locked="false" Priority="61" SemiHidden="false"   UnhideWhenUsed="false" Name="Light List Accent 5"/>  <w:LsdException Locked="false" Priority="62" SemiHidden="false"   UnhideWhenUsed="false" Name="Light Grid Accent 5"/>  <w:LsdException Locked="false" Priority="63" SemiHidden="false"   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 5"/>  <w:LsdException Locked="false" Priority="64" SemiHidden="false"   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 5"/>  <w:LsdException Locked="false" Priority="65" SemiHidden="false"   UnhideWhenUsed="false" Name="Medium List 1 Accent 5"/>  <w:LsdException Locked="false" Priority="66" SemiHidden="false"   UnhideWhenUsed="false" Name="Medium List 2 Accent 5"/>  <w:LsdException Locked="false" Priority="67" SemiHidden="false"   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 5"/>  <w:LsdException Locked="false" Priority="68" SemiHidden="false"   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 5"/>  <w:LsdException Locked="false" Priority="69" SemiHidden="false"   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 5"/>  <w:LsdException Locked="false" Priority="70" SemiHidden="false"   UnhideWhenUsed="false" Name="Dark List Accent 5"/>  <w:LsdException Locked="false" Priority="71" SemiHidden="false"   UnhideWhenUsed="false" Name="Colorful Shading Accent 5"/>  <w:LsdException Locked="false" Priority="72" SemiHidden="false"   UnhideWhenUsed="false" Name="Colorful List Accent 5"/>  <w:LsdException Locked="false" Priority="73" SemiHidden="false"   UnhideWhenUsed="false" Name="Colorful Grid Accent 5"/>  <w:LsdException Locked="false" Priority="60" SemiHidden="false"   UnhideWhenUsed="false" Name="Light Shading Accent 6"/>  <w:LsdException Locked="false" Priority="61" SemiHidden="false"   UnhideWhenUsed="false" Name="Light List Accent 6"/>  <w:LsdException Locked="false" Priority="62" SemiHidden="false"   UnhideWhenUsed="false" Name="Light Grid Accent 6"/>  <w:LsdException Locked="false" Priority="63" SemiHidden="false"   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 6"/>  <w:LsdException Locked="false" Priority="64" SemiHidden="false"   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 6"/>  <w:LsdException Locked="false" Priority="65" SemiHidden="false"   UnhideWhenUsed="false" Name="Medium List 1 Accent 6"/>  <w:LsdException Locked="false" Priority="66" SemiHidden="false"   UnhideWhenUsed="false" Name="Medium List 2 Accent 6"/>  <w:LsdException Locked="false" Priority="67" SemiHidden="false"   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 6"/>  <w:LsdException Locked="false" Priority="68" SemiHidden="false"   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 6"/>  <w:LsdException Locked="false" Priority="69" SemiHidden="false"   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 6"/>  <w:LsdException Locked="false" Priority="70" SemiHidden="false"   UnhideWhenUsed="false" Name="Dark List Accent 6"/>  <w:LsdException Locked="false" Priority="71" SemiHidden="false"   UnhideWhenUsed="false" Name="Colorful Shading Accent 6"/>  <w:LsdException Locked="false" Priority="72" SemiHidden="false"   UnhideWhenUsed="false" Name="Colorful List Accent 6"/>  <w:LsdException Locked="false" Priority="73" SemiHidden="false"   UnhideWhenUsed="false" Name="Colorful Grid Accent 6"/>  <w:LsdException Locked="false" Priority="19" SemiHidden="false"   UnhideWhenUsed="false" QFormat="true" Name="Subtle Emphasis"/>  <w:LsdException Locked="false" Priority="21" SemiHidden="false"   UnhideWhenUsed="false" QFormat="true" Name="Intense Emphasis"/>  <w:LsdException Locked="false" Priority="31" SemiHidden="false"   UnhideWhenUsed="false" QFormat="true" Name="Subtle Reference"/>  <w:LsdException Locked="false" Priority="32" SemiHidden="false"   UnhideWhenUsed="false" QFormat="true" Name="Intense Reference"/>  <w:LsdException Locked="false" Priority="33" SemiHidden="false"   UnhideWhenUsed="false" QFormat="true" Name="Book Title"/>  <w:LsdException Locked="false" Priority="37" Name="Bibliography"/>  <w:LsdException Locked="false" Priority="39" QFormat="true" Name="TOC Heading"/> </w:LatentStyles></xml><![endif]--><!--[if gte mso 10]>
+<style> /* Style Definitions */ table.MsoNormalTable	{mso-style-name:"Table Normal";	mso-tstyle-rowband-size:0;	mso-tstyle-colband-size:0;	mso-style-noshow:yes;	mso-style-priority:99;	mso-style-parent:"";	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;	mso-para-margin-top:0cm;	mso-para-margin-right:0cm;	mso-para-margin-bottom:8.0pt;	mso-para-margin-left:0cm;	line-height:107%;	mso-pagination:widow-orphan;	font-size:11.0pt;	font-family:"Calibri","sans-serif";	mso-ascii-font-family:Calibri;	mso-ascii-theme-font:minor-latin;	mso-hansi-font-family:Calibri;	mso-hansi-theme-font:minor-latin;	mso-bidi-font-family:"Times New Roman";}</style><![endif]-->
+                                  </p>
+                                  <p class="MsoNormal" style="margin-bottom:10.0pt;text-align:justify;text-justify:
+inter-ideograph;line-height:115%;mso-pagination:none;mso-layout-grid-align:none;text-autospace:none"><span
+
+                                      style="font-size:12.0pt;line-height:
+115%;font-family:&quot;Garamond&quot;,&quot;serif&quot;;mso-bidi-font-family:Garamond;mso-ansi-language:EN"
+
+                                      lang="EN">Uganda Congress Peoples (UPC)
+                                      has always indicated in a number of its
+                                      documents that it is a social democratic
+                                      party.</span></p>
+                                  <p class="MsoNormal" style="margin-bottom:10.0pt;text-align:justify;text-justify:
+inter-ideograph;line-height:115%;mso-pagination:none;mso-layout-grid-align:none;text-autospace:none"><span
+
+                                      style="font-size:12.0pt;line-height:
+115%;font-family:&quot;Garamond&quot;,&quot;serif&quot;;mso-bidi-font-family:Garamond;mso-ansi-language:EN"
+
+                                      lang="EN">The roots of Uganda Peoples
+                                      Congress (UPC) can be traced to the Uganda
+                                      National Congress (UNC), which was formed
+                                      in 1952 under the leadership of Ignatius
+                                      Musazi the UNC emerged out of Uganda
+                                      African farmers Union (UAFU) which was a
+                                      movement of small holder farmers agitated
+                                      for better prices of coffee and cotton. At
+                                      the time, the main economic and political
+                                      activities were concentrated in Buganda
+                                      and naturally the leadership of the day.
+                                      With time, the Baganda lost out on the
+                                      political leadership because they lacked
+                                      the local base and support of Mengo
+                                      established. This, therefore, changed the
+                                      ethnic and character of the leadership of
+                                      the Party. The Party was the first Uganda
+                                      Party to be established and to have
+                                      branches country wide.</span></p>
+                                  <p></p>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="col-lg-4 col-md-6 col-sm-12 image-column">
+                            <figure class="image-box"><img decoding="async" src="images/ppc.png"
+
+                                alt="Awesome Image"></figure>
+                          </div>
+                          <div class="col-lg-4 col-md-6 col-sm-12 inner-column">
+                            <div class="feature-block-one">
+                              <div class="inner-box"><br>
+                                <div class="overlay-content" style="top: 76px; left: 29px; width: 335px; height: 159px;">
+                                  <h4>Our Values</h4>
+                                  <p>The values, aims and objectives of the
+                                    Party based on social-democratic principles
+                                    shall be: </p>
+                                </div>
+                              </div>
+                            </div>
+                            <div class="feature-block-one">
+                              <div class="inner-box"><br>
+                                <div class="overlay-content"><br>
+                                  <p>An independent, united, democratic, just
+                                    peace and prosperous nation, where all its
+                                    citizens have equal opportunities and
+                                    equitable access to national resources.</p>
+                                </div>
+                              </div>
+                            </div>
+                            <div class="feature-block-one">
+                              <div class="inner-box"><br>
+                                <div class="overlay-content">
+                                  <h4>Unity</h4>
+                                  <p>To build the Republic of Uganda as one
+                                    country with one people, one national
+                                    Parliament and one national Government. </p>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </section>
+                    <!-- about-style-three end --> </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+        <section class="elementor-section elementor-top-section elementor-element elementor-element-e482901 elementor-section-full_width elementor-section-height-default elementor-section-height-default"
+
+          data-id="e482901" data-element_type="section">
+          <div class="elementor-container elementor-column-gap-default">
+            <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-cc45d1d"
+
+              data-id="cc45d1d" data-element_type="column">
+              <div class="elementor-widget-wrap elementor-element-populated">
+                <div class="elementor-element elementor-element-d1b62b2 elementor-widget elementor-widget-whitehall_discover_our_city"
+
+                  data-id="d1b62b2" data-element_type="widget" data-widget_type="whitehall_discover_our_city.default">
+                  <div class="elementor-widget-container">
+                    <!-- discover-section -->
+                    <section class="discover-section sec-pad" style="background-image: url(https://nupuganda.org/wp-content/uploads/2024/12/);">
+                      <div class="auto-container">
+                        <div class="sec-title centred light">
+                          <h2>Our Core Values</h2>
+                          <div class="title-shape"></div>
+                        </div>
+                        <div class="row clearfix">
+                          <div class="col-lg-3 col-md-6 col-sm-12 discover-block">
+                            <div class="discover-block-one wow fadeInUp animated animated"
+
+                              data-wow-delay="200ms" data-wow-duration="1500ms">
+                              <div class="inner-box">
+                                <div class="content-box">
+                                  <div class="icon-box"><i class="icon flaticon-teamwork"></i></div>
+                                  <h4>Sovereignity</h4>
+                                  <a href="#"><i class="flaticon-right-arrow"></i></a>
+                                  <span class="count">01</span> </div>
+                                <div class="overlay-content">
+                                  <h4>Democracy</h4>
+                                  <p></p>
+                                  <a href="#"><i class="flaticon-right-arrow"></i></a>
+                                  <span class="count">01</span> </div>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="col-lg-3 col-md-6 col-sm-12 discover-block">
+                            <div class="discover-block-one wow fadeInUp animated animated"
+
+                              data-wow-delay="200ms" data-wow-duration="1500ms">
+                              <div class="inner-box">
+                                <div class="content-box">
+                                  <div class="icon-box"><i class="icon flaticon-double-tick-indicator"></i></div>
+                                  <h4>Social and Political Development</h4>
+                                  <a href="#"><i class="flaticon-right-arrow"></i></a>
+                                  <span class="count">02</span> </div>
+                                <div class="overlay-content">
+                                  <h4>Economy </h4>
+                                  <p></p>
+                                  <a href="#"><i class="flaticon-right-arrow"></i></a>
+                                  <span class="count">02</span> </div>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="col-lg-3 col-md-6 col-sm-12 discover-block">
+                            <div class="discover-block-one wow fadeInUp animated animated"
+
+                              data-wow-delay="200ms" data-wow-duration="1500ms">
+                              <div class="inner-box">
+                                <div class="content-box">
+                                  <div class="icon-box"><i class="icon flaticon-teamwork"></i></div>
+                                  <h4>Rights, Freedoms and Liberties </h4>
+                                  <a href="#"><i class="flaticon-right-arrow"></i></a>
+                                  <span class="count">03</span> </div>
+                                <div class="overlay-content">
+                                  <h4>Equality and Equity </h4>
+                                  <p></p>
+                                  <a href="#"><i class="flaticon-right-arrow"></i></a>
+                                  <span class="count">03</span> </div>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="col-lg-3 col-md-6 col-sm-12 discover-block">
+                            <div class="discover-block-one wow fadeInUp animated animated"
+
+                              data-wow-delay="200ms" data-wow-duration="1500ms">
+                              <div class="inner-box">
+                                <div class="content-box">
+                                  <div class="icon-box"><i class="icon flaticon-group"></i></div>
+                                  <h4>On interference with Rights and Freedoms
+                                    of others </h4>
+                                  <a href="#"><i class="flaticon-right-arrow"></i></a>
+                                  <span class="count">04</span> </div>
+                                <div class="overlay-content">
+                                  <h4>Cooperation and Relations </h4>
+                                  <p></p>
+                                  <a href="#"><i class="flaticon-right-arrow"></i></a>
+                                  <span class="count">04</span> </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </section>
+                    <!-- discover-section end --> </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+        <section class="elementor-section elementor-top-section elementor-element elementor-element-dad43f0 elementor-section-full_width elementor-section-height-default elementor-section-height-default"
+
+          data-id="dad43f0" data-element_type="section">
+          <div class="elementor-container elementor-column-gap-default">
+            <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-5988bed"
+
+              data-id="5988bed" data-element_type="column">
+              <div class="elementor-widget-wrap elementor-element-populated">
+                <div class="elementor-element elementor-element-43871b8 elementor-widget elementor-widget-whitehall_team_v1"
+
+                  data-id="43871b8" data-element_type="widget" data-widget_type="whitehall_team_v1.default">
+                  <div class="elementor-widget-container">
+                    <!-- team-section -->
+                    <section class="team-section sec-pad ">
+                      <div class="auto-container">
+                        <div class="sec-title">
+                          <h6><i class="flaticon-star"></i><span>Our Team</span></h6>
+                          <h2>Meet Our Cabinet</h2>
+                          <div class="title-shape"></div>
+                          <a href="#" class="theme-btn">All members</a> </div>
+                        <div class="row clearfix">
+                          <div class="col-lg-3 col-md-6 col-sm-12 team-block">
+                            <div class="team-block-one wow fadeInUp animated animated"
+
+                              data-wow-delay="200ms" data-wow-duration="1500ms">
+                              <div class="inner-box"> <img src="images/PARTY%20PRESIDENT%203.jpg"
+
+                                  alt="">
+                                <div class="lower-content">
+                                  <div class="author-box">
+                                    <h4>Jimmy Akena</h4>
+                                    <span class="designation">President</span> </div>
+                                  <ul class="othre-info clearfix">
+                                    <li class="share-option"> <i class="share-icon flaticon-share"></i>
+                                      <ul class="share-links clearfix">
+                                        <li><a href="president-biography." style="background-color:; color: "
+
+                                            target="_blank"><i class="fab fa-tencent-weibo"></i></a><br>
+                                        </li>
+                                      </ul>
+                                    </li>
+                                  </ul>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="col-lg-3 col-md-6 col-sm-12 team-block">
+                            <div class="team-block-one wow fadeInUp animated animated"
+
+                              data-wow-delay="200ms" data-wow-duration="1500ms">
+                              <div class="inner-box"> <img src="images/Treasurer.jpg"
+
+                                  alt="">
+                                <div class="lower-content">
+                                  <div class="author-box">
+                                    <h4>Akora Maxwell</h4>
+                                    <span class="designation">Party Treasurer</span>
+                                  </div>
+                                  <ul class="othre-info clearfix">
+                                    <li class="share-option"> <i class="share-icon flaticon-share"></i>
+                                      <ul class="share-links clearfix">
+                                      </ul>
+                                    </li>
+                                  </ul>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="col-lg-3 col-md-6 col-sm-12 team-block">
+                            <div class="team-block-one wow fadeInUp animated animated"
+
+                              data-wow-delay="200ms" data-wow-duration="1500ms">
+                              <div class="inner-box"> <img src="images/youth_leader.jpg"
+
+                                  alt="">
+                                <div class="lower-content">
+                                  <div class="author-box">
+                                    <h4></h4>
+                                    <span class="designation">National Youth
+                                      Leader</span> </div>
+                                  <ul class="othre-info clearfix">
+                                    <li class="share-option"> <i class="share-icon flaticon-share"></i>
+                                      <ul class="share-links clearfix">
+                                      </ul>
+                                    </li>
+                                  </ul>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="col-lg-3 col-md-6 col-sm-12 team-block">
+                            <div class="team-block-one wow fadeInUp animated animated"
+
+                              data-wow-delay="200ms" data-wow-duration="1500ms">
+                              <div class="inner-box"> <img src="images/NATIONAL%20WOMAN%20LEADER.jpg"
+
+                                  alt="">
+                                <div class="lower-content">
+                                  <div class="author-box">
+                                    <h4></h4>
+                                    <span class="designation">National Woman
+                                      Leader</span> </div>
+                                  <ul class="othre-info clearfix">
+                                    <li class="share-option"> <i class="share-icon flaticon-share"></i>
+                                      <ul class="share-links clearfix">
+                                      </ul>
+                                    </li>
+                                  </ul>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="col-lg-3 col-md-6 col-sm-12 team-block">
+                            <div class="team-block-one wow fadeInUp animated animated"
+
+                              data-wow-delay="200ms" data-wow-duration="1500ms">
+                              <div class="inner-box">
+                                <figure class="image-box"><img loading="lazy" decoding="async"
+
+                                    src="images/DEPUTY%20WOMAN%20LEADER.jpg" class="attachment-whitehall_270x270 size-whitehall_270x270 wp-post-image"
+
+                                    alt="" srcset="https://nupuganda.org/wp-content/uploads/2025/02/DEPUTY WOMAN LEADER.jpg 270w, https://nupuganda.org/wp-content/uploads/2025/02/DEPUTY WOMAN LEADER.jpg 150w, https://nupuganda.org/wp-content/uploads/2025/02/DEPUTY WOMAN LEADER.jpg 120w, https://nupuganda.org/wp-content/uploads/2025/02/DEPUTY WOMAN LEADER.jpg 60w, https://nupuganda.org/wp-content/uploads/2025/02/DEPUTY WOMAN LEADER.jpg 70w"
+
+                                    sizes="(max-width: 270px) 100vw, 270px" height="270"
+
+                                    width="270"></figure>
+                                <div class="lower-content">
+                                  <div class="author-box">
+                                    <h4></h4>
+                                    <span class="designation">DEPUTY WOMAN
+                                      LEADER</span> </div>
+                                  <ul class="othre-info clearfix">
+                                    <li class="share-option"> <i class="share-icon flaticon-share"></i>
+                                      <ul class="share-links clearfix">
+                                      </ul>
+                                    </li>
+                                  </ul>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="col-lg-3 col-md-6 col-sm-12 team-block">
+                            <div class="team-block-one wow fadeInUp animated animated"
+
+                              data-wow-delay="200ms" data-wow-duration="1500ms">
+                              <div class="inner-box">
+                                <figure class="image-box"><img loading="lazy" decoding="async"
+
+                                    src="images/DEPUTY%20YOUTH%20LEADER.jpg" class="attachment-whitehall_270x270 size-whitehall_270x270 wp-post-image"
+
+                                    alt="" srcset="https://nupuganda.org/wp-content/uploads/2025/02/DEPUTY YOUTH LEADER.jpg 270w, https://nupuganda.org/wp-content/uploads/2025/02/DEPUTY YOUTH LEADER.jpg 150w, https://nupuganda.org/wp-content/uploads/2025/02/DEPUTY YOUTH LEADER.jpg 120w, https://nupuganda.org/wp-content/uploads/2025/02/DEPUTY YOUTH LEADER.jpg 60w, https://nupuganda.org/wp-content/uploads/2025/02/DEPUTY YOUTH LEADER.jpg 70w"
+
+                                    sizes="(max-width: 270px) 100vw, 270px" height="270"
+
+                                    width="270"></figure>
+                                <div class="lower-content">
+                                  <div class="author-box">
+                                    <h4></h4>
+                                    <span class="designation">DEPUTY YOUTH
+                                      LEADER</span> </div>
+                                  <ul class="othre-info clearfix">
+                                    <li class="share-option"> <i class="share-icon flaticon-share"></i>
+                                      <ul class="share-links clearfix">
+                                        <li><a href="https://www.facebook.com/"
+
+                                            style="background-color:rgb(59, 89, 152); color: rgb(255, 255, 255)"
+
+                                            target="_blank"><i class="fab fa-facebook"></i></a><br>
+                                        </li>
+                                        <li><a href="https://www.pinterest.com/"
+
+                                            style="background-color:rgb(189, 8, 28); color: rgb(255, 255, 255)"
+
+                                            target="_blank"><i class="fab fa-pinterest"></i></a><br>
+                                        </li>
+                                        <li><a href="https://www.twitter.com/" style="background-color:rgb(85, 172, 238); color: rgb(255, 255, 255)"
+
+                                            target="_blank"><i class="fab fa-twitter"></i></a><br>
+                                        </li>
+                                      </ul>
+                                    </li>
+                                  </ul>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="col-lg-3 col-md-6 col-sm-12 team-block">
+                            <div class="team-block-one wow fadeInUp animated animated"
+
+                              data-wow-delay="200ms" data-wow-duration="1500ms">
+                              <div class="inner-box">
+                                <figure class="image-box"><img loading="lazy" decoding="async"
+
+                                    src="images/ASS.%20SECRETARY%20GENERAL%20MR.%20BAKABULINDI%20BEN%20KIGONGO.jpg"
+
+                                    class="attachment-whitehall_270x270 size-whitehall_270x270 wp-post-image"
+
+                                    alt="" height="188" width="220"></figure>
+                                <div class="lower-content">
+                                  <div class="author-box">
+                                    <h4>&nbsp;MR. BAKABULINDI BEN KIGONGO</h4>
+                                    <span class="designation">ASS. SECRETARY
+                                      GENERAL</span> </div>
+                                  <ul class="othre-info clearfix">
+                                    <li class="share-option"> <i class="share-icon flaticon-share"></i>
+                                      <ul class="share-links clearfix">
+                                        <li><a href="https://www.facebook.com/"
+
+                                            style="background-color:rgb(59, 89, 152); color: rgb(255, 255, 255)"
+
+                                            target="_blank"><i class="fab fa-facebook"></i></a><br>
+                                        </li>
+                                        <li><a href="https://www.pinterest.com/"
+
+                                            style="background-color:rgb(189, 8, 28); color: rgb(255, 255, 255)"
+
+                                            target="_blank"><i class="fab fa-pinterest"></i></a><br>
+                                        </li>
+                                        <li><a href="https://www.twitter.com/" style="background-color:rgb(85, 172, 238); color: rgb(255, 255, 255)"
+
+                                            target="_blank"><i class="fab fa-twitter"></i></a><br>
+                                        </li>
+                                      </ul>
+                                    </li>
+                                  </ul>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="col-lg-3 col-md-6 col-sm-12 team-block">
+                            <div class="team-block-one wow fadeInUp animated animated"
+
+                              data-wow-delay="200ms" data-wow-duration="1500ms">
+                              <div class="inner-box">
+                                <figure class="image-box"><img loading="lazy" decoding="async"
+
+                                    src="images/ASS.%20WOMAN%20LEADER%20NELUBA%20RACHEAL.jpg"
+
+                                    class="attachment-whitehall_270x270 size-whitehall_270x270 wp-post-image"
+
+                                    alt="" srcset="https://nupuganda.org/wp-content/uploads/2021/05/ASS. WOMAN LEADER NELUBA RACHEAL.jpg 270w, https://nupuganda.org/wp-content/uploads/2021/05/ASS. WOMAN LEADER NELUBA RACHEAL.jpg 150w, https://nupuganda.org/wp-content/uploads/2021/05/ASS. WOMAN LEADER NELUBA RACHEAL.jpg 120w, https://nupuganda.org/wp-content/uploads/2021/05/ASS. WOMAN LEADER NELUBA RACHEAL.jpg 60w, https://nupuganda.org/wp-content/uploads/2021/05/ASS. WOMAN LEADER NELUBA RACHEAL.jpg 70w"
+
+                                    sizes="(max-width: 270px) 100vw, 270px" height="270"
+
+                                    width="270"></figure>
+                                <div class="lower-content">
+                                  <div class="author-box">
+                                    <h4>&nbsp;NELUBA RACHEAL</h4>
+                                    <span class="designation">ASS. WOMAN LEADER</span>
+                                  </div>
+                                  <ul class="othre-info clearfix">
+                                    <li class="share-option"> <i class="share-icon flaticon-share"></i>
+                                      <ul class="share-links clearfix">
+                                        <li><a href="https://www.facebook.com/"
+
+                                            style="background-color:rgb(59, 89, 152); color: rgb(255, 255, 255)"
+
+                                            target="_blank"><i class="fab fa-facebook"></i></a><br>
+                                        </li>
+                                        <li><a href="https://www.pinterest.com/"
+
+                                            style="background-color:rgb(189, 8, 28); color: rgb(255, 255, 255)"
+
+                                            target="_blank"><i class="fab fa-pinterest"></i></a><br>
+                                        </li>
+                                        <li><a href="https://www.twitter.com/" style="background-color:rgb(85, 172, 238); color: rgb(255, 255, 255)"
+
+                                            target="_blank"><i class="fab fa-twitter"></i></a><br>
+                                        </li>
+                                      </ul>
+                                    </li>
+                                  </ul>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </section>
+                    <!-- team-section end --> </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+      </div>
+      <div class="clearfix"></div>
+      <!-- main-footer -->
+      <footer class="main-footer">
+        <div class="footer-top-two">
+          <div class="auto-container">
+            <div class="row clearfix">
+              <div class="col-lg-4 col-md-6 col-sm-12 footer-column">
+                <div id="whitehall_about_company-1" class="footer-widget widget_whitehall_about_company">
+                  <div class="footer-widget logo-widget">
+                    <figure class="footer-logo"><a href="nupuganda.html"><img src="images/ppc.png"
+
+                          alt="Logo"></a></figure>
+                    <div class="text">
+                      <p>The roots of Uganda Peoples Congress (UPC) can be
+                        traced to the Uganda National Congress (UNC), which was
+                        formed in 1952 under the leadership of Ignatius Musazi
+                        the UNC emerged out of Uganda African farmers Union
+                        (UAFU) which was a movement of small holder farmers
+                        agitated for better prices of coffee and cotton. At the
+                        time, the main economic and political activities were
+                        concentrated in Buganda and naturally the leadership of
+                        the day. With time, the Baganda lost out on the
+                        political leadership because they lacked the local base
+                        and support of Mengo established. This, therefore,
+                        changed the ethnic and character of the leadership of
+                        the Party . The Party was the first Uganda Party to be
+                        established and to have branches country wide. In terms
+                        of ideological outlook, UNC was generally socialist in
+                        orientation. There was reason why UNC adopted a
+                        socialistic stance. In order to be able to negotiate for
+                        better prices the UNC leadership sought the assistance
+                        of Fener Brokway sent John Stone house, another
+                        socialist to help in organizing both farmers'
+                        cooperative movement association and UNC itself.
+                        Stonehouse was also able to arrange for Ignatius Musazi
+                        to take time off, both Soviet Union for assistance
+                        basically because they were fighting colonialism which
+                        was perpetrated by the western world. It was in the vain
+                        that UN C established an office in Cairo under John
+                        Kalekezi as a communication and transit center , since
+                        that time, Uganda has maintained close links with Egypt
+                        .</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="col-lg-4 col-md-6 col-sm-12 footer-column">
+                <div id="cnss_widget-2" class="footer-widget widget_cnss_widget">
+                  <div class="widget-title">
+                    <h4>We Are Social</h4>
+                  </div>
+                  <ul id="" class="cnss-social-icon " style="text-align:left; text-align:-webkit-left; align-self:start;">
+                    <li class="cn-fa-facebook cn-fa-icon " style="display:inline-block;"><a
+
+                        class="cnss-facebook" target="_blank" href="https://www.facebook.com//"
+
+                        title="Facebook" style="width:30px;height:30px;padding:5px 0;color: #ffffff;border-radius: 50%;margin:2px;"><i
+
+                          title="Facebook" style="font-size:20px;" class="fab fa-facebook"></i></a><br>
+                    </li>
+                    <li class="cn-fa-x-twitter cn-fa-icon " style="display:inline-block;"><a
+
+                        class="cnss-brands cnss-x-twitter" target="_blank" href="https://twitter.com/NUP_Ug?t=j2H_5JQc4lkX7f3mpNry2Q&amp;s=09"
+
+                        title="X Twitter" style="width:30px;height:30px;padding:5px 0;color: #ffffff;border-radius: 50%;margin:2px;"><i
+
+                          title="X Twitter" style="font-size:20px;" class="fa-brands fa-x-twitter"></i></a><br>
+                    </li>
+                    <li class="cn-fa-youtube cn-fa-icon " style="display:inline-block;"><a
+
+                        class="cnss-youtube" target="_blank" href="https://youtube.com/channel/UCq10I7KbIUp-N71bzwjUEVg"
+
+                        title="YouTube" style="width:30px;height:30px;padding:5px 0;color: #ffffff;border-radius: 50%;margin:2px;"><i
+
+                          title="YouTube" style="font-size:20px;" class="fab fa-youtube"></i></a><br>
+                    </li>
+                    <li class="cn-fa-instagram cn-fa-icon " style="display:inline-block;"><a
+
+                        class="cnss-instagram" target="_blank" href="https://instagram.com/="
+
+                        title="Instagram" style="width:30px;height:30px;padding:5px 0;color: #ffffff;border-radius: 50%;margin:2px;"><i
+
+                          title="Instagram" style="font-size:20px;" class="fab fa-instagram"></i></a><br>
+                    </li>
+                    <li class="cn-fa-tiktok cn-fa-icon " style="display:inline-block;"><a
+
+                        class="cnss-tiktok" target="_blank" href="https://www.tiktok.com/@nationalunityplatform?is_from_webapp=1&amp;sender_device=pc"
+
+                        title="Tiktok" style="width:30px;height:30px;padding:5px 0;color: #ffffff;border-radius: 50%;margin:2px;"><i
+
+                          title="Tiktok" style="font-size:20px;" class="fab fa-tiktok"></i></a><br>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+              <div class="col-lg-4 col-md-6 col-sm-12 footer-column">
+                <div id="whitehall_recent_news-1" class="footer-widget widget_whitehall_recent_news">
+                  <div class="post-widget">
+                    <div class="widget-title">
+                      <h4>Recent News</h4>
+                    </div>
+                    <div class="widget-content">
+                      <div class="post-inner">
+                        <!-- Title -->
+                        <div class="post">
+                          <div class="post-date">
+                            <h3>1990<span>AUG/24</span></h3>
+                          </div>
+                          <p><br>
+                          </p>
+                          <h5><br>
+                          </h5>
+                        </div>
+                        <div class="post">
+                          <div class="post-date">
+                            <h3>1998<span>JUN/29</span></h3>
+                          </div>
+                          <p><br>
+                          </p>
+                          <h5><a href="heartfelt-tribute-from-our-secretary-general-david-lewis-rubongoya-following-our-victory-in-the-kawempe-north-bi-election.html"><br>
+                            </a></h5>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="footer-bottom alternat-2">
+          <div class="auto-container">
+            <div class="bottom-inner clearfix">
+              <div class="copyright pull-left">
+                <p>© 2025 Uganda Peoples Congress. All Rights Reserved. </p>
+              </div>
+              <ul class="footer-nav clearfix pull-right">
+                <li id="menu-item-16574" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16574"><a
+
+                    title="Staff Mail" href="webmail.html" class="hvr-underline-from-left1"
+
+                    data-scroll="" data-options="easing: easeOutQuart">Staff
+                    Mail</a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </footer>
+      <!-- main-footer end -->
+      <!--Scroll to top--> <button class="scroll-top scroll-to-target" data-target="html">
+        <span class="fas fa-angle-up"></span> </button> </div>
+    <!-- End Page Wrapper -->
+    <script>
+		( function ( body ) {
+			'use strict';
+			body.className = body.className.replace( /\btribe-no-js\b/, 'tribe-js' );
+		} )( document.body );
+		</script>
+    <script> /* <![CDATA[ */var tribe_l10n_datatables = {"aria":{"sort_ascending":": activate to sort column ascending","sort_descending":": activate to sort column descending"},"length_menu":"Show _MENU_ entries","empty_table":"No data available in table","info":"Showing _START_ to _END_ of _TOTAL_ entries","info_empty":"Showing 0 to 0 of 0 entries","info_filtered":"(filtered from _MAX_ total entries)","zero_records":"No matching records found","search":"Search:","all_selected_text":"All items on this page were selected. ","select_all_link":"Select all pages","clear_selection":"Clear Selection.","pagination":{"all":"All","next":"Next","previous":"Previous"},"select":{"rows":{"0":"","_":": Selected %d rows","1":": Selected 1 row"}},"datepicker":{"dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesMin":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Prev","currentText":"Today","closeText":"Done","today":"Today","clear":"Clear"}};/* ]]> */ </script>
+    <script type="text/javascript">
+				const lazyloadRunObserver = () => {
+					const lazyloadBackgrounds = document.querySelectorAll( `.e-con.e-parent:not(.e-lazyloaded)` );
+					const lazyloadBackgroundObserver = new IntersectionObserver( ( entries ) => {
+						entries.forEach( ( entry ) => {
+							if ( entry.isIntersecting ) {
+								let lazyloadBackground = entry.target;
+								if( lazyloadBackground ) {
+									lazyloadBackground.classList.add( 'e-lazyloaded' );
+								}
+								lazyloadBackgroundObserver.unobserve( entry.target );
+							}
+						});
+					}, { rootMargin: '200px 0px 200px 0px' } );
+					lazyloadBackgrounds.forEach( ( lazyloadBackground ) => {
+						lazyloadBackgroundObserver.observe( lazyloadBackground );
+					} );
+				};
+				const events = [
+					'DOMContentLoaded',
+					'elementor/lazyload/observe',
+				];
+				events.forEach( ( event ) => {
+					document.addEventListener( event, lazyloadRunObserver );
+				} );
+			</script>
+    <script type="text/javascript" src="js/ui-core.min.js" id="jquery-ui-core-js"></script>
+    <script type="text/javascript" src="js/ui-mouse.min.js" id="jquery-ui-mouse-js"></script>
+    <script type="text/javascript" src="js/ui-sortable.min.js" id="jquery-ui-sortable-js"></script>
+    <script type="text/javascript" src="js/dist-hooks.min.js" id="wp-hooks-js"></script>
+    <script type="text/javascript" src="js/dist-i18n.min.js" id="wp-i18n-js"></script>
+    <script type="text/javascript" id="wp-i18n-js-after">
+/* <![CDATA[ */
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+/* ]]> */
+</script> <script type="text/javascript" src="js/js-index.js" id="swv-js"></script>
+    <script type="text/javascript" id="contact-form-7-js-before">
+/* <![CDATA[ */
+var wpcf7 = {
+    "api": {
+        "root": "https:\/\/nupuganda.org\/wp-json\/",
+        "namespace": "contact-form-7\/v1"
+    },
+    "cached": 1
+};
+/* ]]> */
+</script> <script type="text/javascript" src="js/js-index.js" id="contact-form-7-js"></script>
+    <script type="text/javascript" src="js/js-popper.min.js" id="popper-js"></script>
+    <script type="text/javascript" src="js/js-bootstrap.min.js" id="bootstrap-js"></script>
+    <script type="text/javascript" src="js/js-owl.js" id="owl-theme-js"></script>
+    <script type="text/javascript" src="js/js-wow.js" id="wow-js"></script>
+    <script type="text/javascript" src="js/js-jquery.fancybox.js" id="jquery.fancybox-js"></script>
+    <script type="text/javascript" src="js/js-appear.js" id="appear-js"></script>
+    <script type="text/javascript" src="js/js-scrollbar.js" id="scrollbar-js"></script>
+    <script type="text/javascript" src="js/js-jquery.nice-select.min.js" id="nice-select-js"></script>
+    <script type="text/javascript" src="js/js-nav-tool.js" id="nav-tool-js"></script>
+    <script type="text/javascript" src="js/js-bxslider.js" id="bxslider-js"></script>
+    <script type="text/javascript" src="js/js-isotope.js" id="isotope-js"></script>
+    <script type="text/javascript" src="js/js-countdown.js" id="countdown-js"></script>
+    <script type="text/javascript" src="js/js-script.js" id="whitehall-main-script-js"></script>
+    <script type="text/javascript" src="js/js-comment-reply.min.js" id="comment-reply-js"
+
+async="async" data-wp-strategy="async"></script>
+    <script type="text/javascript" src="js/js-webpack.runtime.min.js" id="elementor-webpack-runtime-js"></script>
+    <script type="text/javascript" src="js/js-frontend-modules.min.js" id="elementor-frontend-modules-js"></script>
+    <script type="text/javascript" id="elementor-frontend-js-before">
+/* <![CDATA[ */
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close","a11yCarouselWrapperAriaLabel":"Carousel | Horizontal scrolling: Arrow Left & Right","a11yCarouselPrevSlideMessage":"Previous slide","a11yCarouselNextSlideMessage":"Next slide","a11yCarouselFirstSlideMessage":"This is the first slide","a11yCarouselLastSlideMessage":"This is the last slide","a11yCarouselPaginationBulletMessage":"Go to slide"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile Portrait","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Landscape","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet Portrait","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Landscape","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}},"hasCustomBreakpoints":false},"version":"3.25.6","is_static":false,"experimentalFeatures":{"e_font_icon_svg":true,"additional_custom_breakpoints":true,"container":true,"e_swiper_latest":true,"e_nested_atomic_repeaters":true,"e_optimized_control_loading":true,"e_onboarding":true,"e_css_smooth_scroll":true,"home_screen":true,"nested-elements":true,"editor_v2":true,"e_element_cache":true,"link-in-bio":true,"floating-buttons":true,"launchpad-checklist":true},"urls":{"assets":"https:\/\/nupuganda.org\/wp-content\/plugins\/elementor\/assets\/","ajaxurl":"https:\/\/nupuganda.org\/wp-admin\/admin-ajax.php","uploadUrl":"https:\/\/nupuganda.org\/wp-content\/uploads"},"nonces":{"floatingButtonsClickTracking":"85d6a1b559"},"swiperClass":"swiper","settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":407,"title":"About%20Us%20%E2%80%93%20nupuganda","excerpt":"","featuredImage":false}};
+/* ]]> */
+</script> <script type="text/javascript" src="js/js-frontend.min.js" id="elementor-frontend-js"></script>
+  </body>
+</html>
+<!-- Page cached by LiteSpeed Cache 6.0.0.1 on 2025-03-22 10:10:46 -->
